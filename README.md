@@ -4,7 +4,7 @@
 
 Fills in missing product attributes with an LLM call, generalized to any OpenAI-compatible endpoint. One piece of a small multi-service platform demo, see [Related repos](#related-repos) for the rest.
 
-This is a sanitized, generic rebuild for portfolio purposes. No real vendor, client, or company data is used anywhere in this repo. More context: [paulocremas-showcase](https://github.com/paulocremas-showcase). Full portfolio: [paulocremas.github.io](https://paulocremas.github.io).
+This is a sanitized, generic rebuild for portfolio purposes. No real vendor, client, or company data is used anywhere in this repo. More context: [paulocremas-showcase](https://github.com/paulocremas-showcase). Full portfolio: [paulocremas.github.io](https://paulocremas.github.io). Built to the standard defined in my [Constitution](https://github.com/paulocremas/paulocremas-method).
 
 ## Table of contents
 - [What this is](#what-this-is)
