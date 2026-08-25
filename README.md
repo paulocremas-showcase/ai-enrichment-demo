@@ -21,7 +21,7 @@ Records land via [data-extraction-demo](https://github.com/paulocremas-showcase/
 ## Flow
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[Records with missing fields] --> B[submit_batch]
     B -->|Batch API job, up to 24h window| C[fetch_batch]
     C -->|structured JSON per record| D[Enriched records]
